@@ -31,12 +31,14 @@ h4 {
 
 .indifferent {
   background-color: #dddd22;
-  box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
-  background-color: #44cc66;
+  box-shadow:  -1px 1px #FFF380, -2px 2px #FFF380, -3px 3px #FFF380, -4px 4px #FFF380, -5px 5px #FFF380;
+  
 }
 
 .dubious {
   background-color: #dd4444;
+  box-shadow:  -1px 1px #F70D1A, -2px 2px #F70D1A, -3px 3px #F70D1A, -4px 4px #F70D1A, -5px 5px #F70D1A;
+
 }
 
 .column {
